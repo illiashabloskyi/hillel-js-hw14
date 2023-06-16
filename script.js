@@ -6,20 +6,10 @@
 const num = parseInt(prompt("Введіть число"));
 const degree = parseInt(prompt("Введіть ступінь"));
 
-if (
-  num === "" ||
-  num === null ||
-  num === isNaN ||
-  degree === "" ||
-  degree === null ||
-  degree === isNaN
-) {
-  alert("Щось пішло не так");
-}
-
 // TODO: Реалізація за допомогою function
 
 // function pow(num, degree){
+
 //   if (degree === 1){
 //     return num
 //   }
