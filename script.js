@@ -19,6 +19,7 @@ const degree = parseInt(prompt("Введіть ступінь"));
 //     return num * pow(num, degree - 1)
 //   }
 // }
+// console.log(pow(num, degree));
 
 // TODO: Реалізація за допомогою ()=>{}
 
